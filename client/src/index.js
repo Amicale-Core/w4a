@@ -9,4 +9,5 @@ ReactDOM.render(
 		<App />
 	</HashRouter>,
 	window.document.getElementById('root')
+	/* oui */
 );
